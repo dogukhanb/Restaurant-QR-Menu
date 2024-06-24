@@ -5,20 +5,3 @@
 <h3>Restaurant a ait qr menu <h3>
 
 <img src="qrmenu.gif"/>
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
-# Restaurant-QR-Menu
